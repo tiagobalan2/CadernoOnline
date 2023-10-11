@@ -12,9 +12,12 @@ Personalizar caderno;
 Remover caderno;
 Limpar folha do caderno.
 
+### Prototipação:
+https://www.canva.com/design/DAFw_u2wljk/Tfw3ZcOGvfWj4y7MD9ZXWg/watch?utm_content=DAFw_u2wljk&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 # Integrantes:
- Miguel Mazini Bonilha
- Lucas Leonardo Sambati
+ Miguel Mazini Bonilha,
+ Lucas Leonardo Sambati,
  Tiago Leomil Balan
 
  
